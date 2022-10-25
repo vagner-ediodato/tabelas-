@@ -1,0 +1,17 @@
+body {color: rgb(7, 7, 7);}
+
+table, tr td { border: 2px solid black;
+              font-family: 'Abel', sans-serif;}
+
+.container {padding: 10px;}
+
+table { width: 100%; border-collapse: collapse;
+       box-shadow: 12px 12px 20px rgb(101, 98, 98);}
+
+td, th {border: 1px solid #dddddd; padding: 10px;}
+
+th {padding-top: 12px;
+   padding-bottom: 12px;
+    text-align: left; background-color: rgb(130, 244, 244);
+    }
+tr:nth-child(even){background-color: rgb(232, 232, 221);}
